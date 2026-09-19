@@ -1,6 +1,6 @@
 {
-  "version": 9,
-  "url": "https://raw.githubusercontent.com/jgreenrise/orders-ota-/main/www-v9.zip",
+  "version": 10,
+  "url": "https://raw.githubusercontent.com/jgreenrise/orders-ota-/main/www-v10.zip",
   "minNative": 1,
   "force": true
 }
