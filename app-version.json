@@ -1,6 +1,5 @@
 {
   "version": 13,
-  "url": "https://raw.githubusercontent.com/jgreenrise/orders-ota-/main/app-bundle-v13.zip",
-  "minNative": 2,
-  "force": true
+  "url": "https://raw.githubusercontent.com/jgreenrise/orders-ota-/main/www-v13.zip",
+  "minNative": 1
 }
